@@ -10,7 +10,7 @@ Programa para a Matéria de Desenvolvimento Web
 - Criação do design através da plataforma Figma: Utilização do Figma para criar e prototipar o design das páginas web, facilitando a visualização e o planejamento do layout.
 - Adicionado animações com Javascript
 
-- Acesso em: https://jacksonn455.github.io/desenvolvimento-web-aula-javascript/
+- Acesso em: https://jacksonn455.github.io/desenvolvimento-web-projeto/
 - Figma em: https://www.figma.com/design/2g4bAm7EnKUsyaS7KBmwBD/Portifolio---Desenvolvimento-Web?node-id=0-1&t=4oFjtVjIi5cUBlvA-0
 
 ## Autor
