@@ -16,6 +16,10 @@ strong {
   color: #c81111;
 }
 
+.titulo-destaque {
+  color: #c81111;
+}
+
 .apresentacao {
   margin: 10% 15%;
   display: flex;
@@ -56,4 +60,20 @@ strong {
   text-decoration: none;
   color: #000000;
   font-family: "Montserrat", sans-serif;
+}
+
+#animacao {
+  color: white;
+}
+
+#animacao::after {
+  content: "|";
+  opacity: 1;
+  animation: blink 0.7s infinite;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
 }
