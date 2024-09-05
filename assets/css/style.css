@@ -47,6 +47,7 @@ strong {
 .apresentacao__links {
   display: flex;
   justify-content: space-between;
+  gap: 10px;
 }
 
 .apresentacao__links__link {
@@ -70,6 +71,10 @@ strong {
   content: "|";
   opacity: 1;
   animation: blink 0.7s infinite;
+}
+
+.apresentacao img {
+  margin-left: 20px;
 }
 
 @keyframes blink {
